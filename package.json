@@ -1,0 +1,13 @@
+{
+  "name": "barangay-sibulan-portal",
+  "version": "1.0.0",
+  "description": "Backend functions for Barangay Sibulan Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@netlify/neon": "^0.1.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
